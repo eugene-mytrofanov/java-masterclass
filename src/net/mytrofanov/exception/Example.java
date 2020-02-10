@@ -1,4 +1,4 @@
-package net.mytrofanov.exceptions;
+package net.mytrofanov.exception;
 
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
@@ -28,6 +28,7 @@ public class Example {
             throw new ArithmeticException("attempt to divide by zero");
         }
     }
+
     private static int getInt() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter an integer");
