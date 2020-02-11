@@ -1,8 +1,8 @@
 package net.mytrofanov.exercise.sumcalculator;
 
 public class SimpleCalculator {
-    double firstNumber;
-    double secondNumber;
+    private double firstNumber;
+    private double secondNumber;
 
     public double getFirstNumber() {
         return this.firstNumber;
