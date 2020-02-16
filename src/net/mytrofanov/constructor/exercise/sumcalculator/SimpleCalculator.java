@@ -1,4 +1,4 @@
-package net.mytrofanov.exercise.sumcalculator;
+package net.mytrofanov.constructor.exercise.sumcalculator;
 
 public class SimpleCalculator {
     private double firstNumber;

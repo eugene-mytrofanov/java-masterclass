@@ -1,4 +1,4 @@
-package net.mytrofanov.exercise.person;
+package net.mytrofanov.constructor.exercise.person;
 
 public class Demo {
     public static void main(String[] args) {

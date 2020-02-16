@@ -1,4 +1,4 @@
-package net.mytrofanov.exercise.bankaccount;
+package net.mytrofanov.constructor.bankaccount;
 
 public class BankAccount {
 
